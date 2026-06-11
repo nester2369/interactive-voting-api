@@ -1,0 +1,24 @@
+# Сборка .NET
+bin/
+obj/
+
+# Локальная база данных SQLite
+*.db
+*.db-shm
+*.db-wal
+
+# Пользовательские настройки IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Логи и временные файлы
+logs/
+*.log
+*.tmp
+
+# Публикация приложения
+publish/
+Release/
+Debug/
